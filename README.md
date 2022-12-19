@@ -23,4 +23,3 @@ SaaS apps.
 | Language  | [Typescript](https://www.typescriptlang.org/)                |
 | Framework | [NextJS](https://nextjs.org/) / [React](https://reactjs.org/) |
 | Styling   | [TailwindCSS](https://tailwindcss.com/)                      |
-| Hosting   | [Vercel](https://vercel.com)                                 |
